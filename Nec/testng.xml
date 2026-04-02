@@ -6,7 +6,7 @@
 	</listeners>
   <test thread-count="5" name="Test">
     <classes>
-      <class name="com.Test.AllServicesTest_003"/>
+      <class name="com.Test.AllServicesTest_002"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- RunSuite -->
